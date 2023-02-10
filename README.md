@@ -44,7 +44,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
     - Installationsguide anschauen 
     - Quickstart durchführen 
   3. Erstes Projekt erstellen
-  - Ergenis (https://github.com/k3s-io/k3s) 
+  - Ergebnis Kubernetes Cluster (https://github.com/k3s-io/k3s) 
 - Installation des Helm Charts auf dem Cluster
 - Überprüfung der Funktionalität
 ### Betrieb:
