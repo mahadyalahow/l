@@ -6,7 +6,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
 
 ## Agenda
 
-### Planung(JB):
+### Planung:
 - Klärung der Anforderungen an die Applikation und die Datenbank
   - SQL-Datenbank
   - API
@@ -19,14 +19,14 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - Visuelle Übersicht zur Kundenpräsentation
 - Erstellung einer Projektstruktur
   - in Bearbeiteung
-### Entwicklung(Mahad):
+### Entwicklung:
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
-### Erstellung des Helm Charts (Yasin):
+### Erstellung des Helm Charts:
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
-### Dokumentation (JHG):
+### Dokumentation:
 - [ ] Betriebshandbuch
   - [ ] Erstellung des Betriebshandbuchs
     - [ ] Struktur Betriebshandbuch aufsetzen
@@ -35,11 +35,11 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - [ ] Konfigurationen abfragen
 - [ ] Dokumentation der Deployment-Schritte
   - [ ] Deployment-Schritte abfragen
-### Testen und Validierung (Behnur):
+### Testen und Validierung:
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
-### Deployment (Erik):
+### Deployment:
 - Erstellung des Clusters
   1. Auswahl des Kuberneres Clusters
     - Überblick über verschiedene Kubernetes Environments sammeln
