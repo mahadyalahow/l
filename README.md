@@ -20,7 +20,8 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - Visuelle Übersicht zur Kundenpräsentation
 - Erstellung einer Projektstruktur
   - in Bearbeiteung
-### Entwicklung:
+
+### Entwicklung:        
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
