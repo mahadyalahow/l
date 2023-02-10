@@ -41,6 +41,15 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
 - Überprüfung der Zuverlässigkeit
 ### Deployment (Erik):
 - Erstellung des Clusters
+  1. Auswahl des Kuberneres Clusters
+    - Überblick über verschiedene Kubernetes Environments sammeln
+    - Anforderungen beachten
+    - Auswahl des Systems in Beachtung der Anforderungen 
+  2. Installation des Clusters 
+    - Installationsguide anschauen 
+    - Quickstart durchführen 
+  3. Erstes Projekt erstellen
+  - Ergebnis Kubernetes Cluster (https://github.com/k3s-io/k3s) 
 - Installation des Helm Charts auf dem Cluster
 - Überprüfung der Funktionalität
 ### Betrieb:
