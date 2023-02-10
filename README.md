@@ -18,10 +18,10 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 ### Erstellung des Helm Charts:
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
-### Dokumentation:
-- Erstellung des Betriebshandbuchs
-- Dokumentation der Konfigurationen und Einstellungen
-- Dokumentation der Deployment-Schritte
+### Dokumentation (JHG):
+- [ ] Erstellung des Betriebshandbuchs
+- [ ] Dokumentation der Konfigurationen und Einstellungen
+- [ ] Dokumentation der Deployment-Schritte
 ### Testen und Validierung:
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
